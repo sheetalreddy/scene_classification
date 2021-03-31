@@ -1,10 +1,10 @@
 # scene_classification
 
-AI IN PRACTICE : HOW TO TRAIN AN IMAGE CLASSIFIER  
+## AI IN PRACTICE : HOW TO TRAIN AN IMAGE CLASSIFIER  
 Author: Sheetal Reddy  
 Contact : sheetal.reddy@ai.se  
 
-Introduction
+### Introduction
 
 The training "AI in Practice" will give you, at a basic level, knowledge about how to train a pre-trained model, the pre-requisites, what techniques that are used and how to continue experimenting in the finetuning of the model.
 
@@ -14,11 +14,11 @@ A pre-trained model gives you the possibility to finetune an existing model trai
 
 There are many pre-trained models available for different purposes you can find some of them here: https://pytorch.org/docs/stable/torchvision/models.html
 
-The objective
+### The objective
 
 The objective of this training is to give you enough knowledge to feel confident when entering an AI project. By understanding the steps requerired to train a model you will an advantage when working in AI related project. This by giving you both an theoretical knowledge but also by you being able to practice hands on - how to train a model.
 
-Learning objectives
+### Learning objectives
 
 After the training you will be able to:
 
@@ -29,14 +29,14 @@ After the training you will be able to:
         Finetune pre-trained models
         Visualize and quantify results
 
-Pre-requisites
+### Pre-requisites
 
 To be able to get the most out of this training we expect you to be aware of:
 
     The subject of AI
     The importance of data
 
-Training instructions
+### Training instructions
 
 The training is primarly performed individially but you will be placed in a group.
 
@@ -48,17 +48,17 @@ There are also some links in the document if you want to learn more in the diffe
 
 Let us know if you have any questions or your group members – but first google it! "Googling " is one of the most common ways that data scientists work with understanding new techniques and ways of working.
 
-Duration
+### Duration
 
     Expected time to finish the training is in total 3 hours.
 
-The challenge
+### The challenge
 
     The challenge in this training, is to finetune the pre-trained model to the use case and dataset - capable of image classification, see below for explanation. We will also later on in this training go through more on the benefits of working with a pre-trained model.
     In this case you will work with improving/training the model using a data set containing different images including scenes.
     The outcome of your work will result in a model that can classify "nature scenes" with a higher accuracy.
 
-Image classification
+### Image classification
 
 So why did we choose image classification for this training?
 

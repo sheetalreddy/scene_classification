@@ -1,7 +1,8 @@
 # scene_classification
- AI IN PRACTICE : HOW TO TRAIN AN IMAGE CLASSIFIER
-Author: Sheetal Reddy
-Contact : sheetal.reddy@ai.se
+
+AI IN PRACTICE : HOW TO TRAIN AN IMAGE CLASSIFIER  
+Author: Sheetal Reddy  
+Contact : sheetal.reddy@ai.se  
 
 Introduction
 
